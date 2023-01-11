@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="static\api.png" />
+    <Content Include="static\CreatePostRequest.png" />
+    <Content Include="static\CreatePostResposeBody.png" />
+    <Content Include="static\CreatePost_QA_Evn.png" />
+    <Content Include="static\email.png" />
+    <Content Include="static\HamzaCat.png" />
+    <Content Include="static\job.png" />
+    <Content Include="static\Laptopfroof.jpg" />
+    <Content Include="static\link.png" />
+    <Content Include="static\new.png" />
+    <Content Include="static\prize.png" />
+    <Content Include="static\QA-CommunityUpdate.png" />
+    <Content Include="static\QA_DB_Tag.png" />
+    <Content Include="static\s31.png" />
+    <Content Include="static\s3_.png" />
+    <Content Include="static\ssss.png" />
+    <Content Include="static\UpdateCommunity.png" />
+    <Content Include="static\WhatsApp Image 2022-10-13 at 15.01.36.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="static\" />
+  </ItemGroup>
+
+</Project>
